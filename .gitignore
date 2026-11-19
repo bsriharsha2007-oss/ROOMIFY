@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+roomify.db
+roomify.db-shm
+roomify.db-wal
+roomify_store.json
+backend/uploads/
